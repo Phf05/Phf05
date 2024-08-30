@@ -1,4 +1,7 @@
-## Hi there 👋
+## oi meu é Paulo e atualmente trabalho com as linguagens:
+- Python <img style="width: 23px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" id="icon_py"/>
+- Javascript   <img style="width: 23px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" id="icon_py"/>
+- Html e Css <img style="width: 23px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" id="icon_py"/>,<img style="width: 23px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" id="icon_py"/>
 
 <!--
 **Phf05/Phf05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
